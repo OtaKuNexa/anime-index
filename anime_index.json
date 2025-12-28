@@ -3,21 +3,89 @@
     "seasons": {
       "3": {
         "language": "Hindi",
-        "total_episodes": 10,
-        "batches": {},
-        "caption_error": false
+        "total_episodes_found": 10,
+        "batches": {
+          "batch_1": {
+            "1": "720p",
+            "2": "720p",
+            "3": "720p",
+            "4": "720p",
+            "5": "720p"
+          },
+          "batch_2": {
+            "6": "720p",
+            "7": "720p",
+            "8": "720p",
+            "9": "720p",
+            "10": "720p"
+          }
+        }
       },
       "1": {
         "language": "Hindi",
-        "total_episodes": 25,
-        "batches": {},
-        "caption_error": false
+        "total_episodes_found": 25,
+        "batches": {
+          "batch_1": {
+            "1": "1080p",
+            "2": "1080p",
+            "3": "1080p",
+            "4": "1080p",
+            "5": "1080p"
+          },
+          "batch_2": {
+            "6": "1080p",
+            "7": "1080p",
+            "8": "1080p",
+            "9": "1080p",
+            "10": "1080p"
+          },
+          "batch_3": {
+            "11": "1080p",
+            "12": "1080p",
+            "13": "1080p",
+            "14": "1080p",
+            "15": "1080p"
+          },
+          "batch_4": {
+            "16": "1080p",
+            "17": "1080p",
+            "18": "1080p",
+            "19": "1080p",
+            "20": "1080p"
+          },
+          "batch_5": {
+            "21": "1080p",
+            "22": "1080p",
+            "23": "1080p",
+            "24": "1080p",
+            "25": "1080p"
+          }
+        }
       },
       "4": {
         "language": "Hindi",
-        "total_episodes": null,
-        "batches": {},
-        "caption_error": false
+        "total_episodes_found": 13,
+        "batches": {
+          "batch_1": {
+            "1": "1080p",
+            "2": "1080p",
+            "3": "1080p",
+            "4": "1080p",
+            "5": "1080p"
+          },
+          "batch_2": {
+            "6": "1080p",
+            "7": "1080p",
+            "8": "1080p",
+            "9": "1080p",
+            "10": "1080p"
+          },
+          "batch_3": {
+            "11": "1080p",
+            "12": "1080p",
+            "13": "1080p"
+          }
+        }
       }
     }
   },
@@ -35,15 +103,51 @@
     "seasons": {
       "2": {
         "language": "Hindi",
-        "total_episodes": null,
-        "batches": {},
-        "caption_error": false
+        "total_episodes_found": 12,
+        "batches": {
+          "batch_1": {
+            "1": "1080p",
+            "2": "720p",
+            "3": "1080p",
+            "4": "720p",
+            "5": "1080p"
+          },
+          "batch_2": {
+            "6": "1080p",
+            "7": "1080p",
+            "8": "480p",
+            "9": "1080p",
+            "10": "1080p"
+          },
+          "batch_3": {
+            "11": "720p",
+            "12": "1080p"
+          }
+        }
       },
       "1": {
         "language": "Hindi",
-        "total_episodes": null,
-        "batches": {},
-        "caption_error": false
+        "total_episodes_found": 12,
+        "batches": {
+          "batch_1": {
+            "1": "480p",
+            "2": "720p",
+            "3": "480p",
+            "4": "480p",
+            "5": "480p"
+          },
+          "batch_2": {
+            "6": "720p",
+            "7": "720p",
+            "8": "480p",
+            "9": "480p",
+            "10": "720p"
+          },
+          "batch_3": {
+            "11": "480p",
+            "12": "720p"
+          }
+        }
       }
     }
   },
