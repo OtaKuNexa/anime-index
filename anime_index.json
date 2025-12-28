@@ -1,1 +1,66 @@
-{}
+{
+  "Haikyuu": {
+    "seasons": {
+      "3": {
+        "language": "Hindi",
+        "total_episodes": 10,
+        "batches": {},
+        "caption_error": false
+      },
+      "1": {
+        "language": "Hindi",
+        "total_episodes": 25,
+        "batches": {},
+        "caption_error": false
+      },
+      "4": {
+        "language": "Hindi",
+        "total_episodes": null,
+        "batches": {},
+        "caption_error": false
+      }
+    }
+  },
+  "The Seven Deadly Sins": {
+    "seasons": {
+      "1": {
+        "language": "English & Japanese",
+        "total_episodes": 24,
+        "batches": {},
+        "caption_error": true
+      }
+    }
+  },
+  "Reborn as a Vending Machine": {
+    "seasons": {
+      "2": {
+        "language": "Hindi",
+        "total_episodes": null,
+        "batches": {},
+        "caption_error": false
+      },
+      "1": {
+        "language": "Hindi",
+        "total_episodes": null,
+        "batches": {},
+        "caption_error": false
+      }
+    }
+  },
+  "Jujutsu Kaisen": {
+    "seasons": {
+      "2": {
+        "language": "English/Sub",
+        "total_episodes": null,
+        "batches": {},
+        "caption_error": false
+      },
+      "1": {
+        "language": "English/Sub",
+        "total_episodes": null,
+        "batches": {},
+        "caption_error": false
+      }
+    }
+  }
+}
