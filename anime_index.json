@@ -1,6 +1,4 @@
 {
-
-  
   "Haikyuu": {
     "seasons": {
       "1": {
@@ -117,9 +115,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "20583"
-        ],
         "specials": {},
         "total_episodes": 25
       },
@@ -237,9 +232,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "20583"
-        ],
         "specials": {},
         "total_episodes": 0
       },
@@ -291,9 +283,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "20583"
-        ],
         "specials": {},
         "total_episodes": 10
       },
@@ -359,11 +348,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "20583",
-          "28891",
-          "32935"
-        ],
         "specials": {},
         "total_episodes": 0
       }
@@ -374,11 +358,6 @@
       "1": {
         "batches": {},
         "language": "English/Sub",
-        "mal_ids": [
-          "40748",
-          "51009",
-          "48561"
-        ],
         "specials": {
           "Special_1": {
             "file": 239,
@@ -390,11 +369,6 @@
       "2": {
         "batches": {},
         "language": "English/Sub",
-        "mal_ids": [
-          "40748",
-          "51009",
-          "48561"
-        ],
         "specials": {
           "Special_1": {
             "file": 267,
@@ -465,9 +439,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "62512"
-        ],
         "specials": {},
         "total_episodes": 0
       },
@@ -529,11 +500,29 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "62512"
-        ],
         "specials": {},
         "total_episodes": 0
+      }
+    }
+  },
+  "Test": {
+    "seasons": {
+      "70": {
+        "batches": {
+          "batch_uncategorized": [
+            {
+              "file": 473,
+              "name": ""
+            },
+            {
+              "file": 474,
+              "name": ""
+            }
+          ]
+        },
+        "language": "African",
+        "specials": {},
+        "total_episodes": 10
       }
     }
   },
@@ -649,9 +638,6 @@
           ]
         },
         "language": "English & Japanese",
-        "mal_ids": [
-          "23755"
-        ],
         "specials": {},
         "total_episodes": 24
       }
