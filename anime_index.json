@@ -1,5 +1,12 @@
 {
-
+"config": {
+    "override_bot": "file_share_ota_bot",
+    "app_update": {
+      "latest_version": "1.0.2",
+      "force_update": false,
+      "download_url": "https://github.com/OtakuNexa/OtakuNexa-App/releases/download/v1.0.2/app-release.apk",
+      "changelog": "## ✨ Big Update v1.0.2\n- Added new servers\n- Fixed black screen bug\n\n## 🐞 Fixes\n- Faster loading times"
+    }
   
   "Haikyuu": {
     "seasons": {
