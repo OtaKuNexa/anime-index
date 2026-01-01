@@ -1,12 +1,5 @@
 {
- "config": {
-    "override_bot": "not working man",
-    "app_update": {
-      "latest_version": "1.0.2",
-      "download_url": "https://github.com/YBTopaz8/Dimmer-MAUI/releases/download/v1.5.6/com.yvanbrunel.dimmer-Signed.apk",
-      "changelog": "• Fixed batch listing bugs\n• Added new servers",
-      "force_update": false
-    }
+
   
   "Haikyuu": {
     "seasons": {
