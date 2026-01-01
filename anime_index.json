@@ -1,6 +1,6 @@
 {
 "config": {
-    "override_bot": "file_share_ota_bot",
+    "override_bot": "22323file_share_ota_bot",
     "app_update": {
       "latest_version": "1.0.2",
       "force_update": false,
